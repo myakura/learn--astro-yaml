@@ -9,6 +9,7 @@
     "preview": "astro preview"
   },
   "devDependencies": {
+    "@rollup/plugin-yaml": "^3.1.0",
     "astro": "^0.21.3"
   }
 }
