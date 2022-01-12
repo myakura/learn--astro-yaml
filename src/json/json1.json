@@ -1,5 +1,10 @@
 {
-	"foo": "var",
-	"truthy": true,
-	"digits": 42
+  "foo": "bar",
+  "baz": "quux",
+  "boolean": true,
+  "numbers": [
+    1,
+    2,
+    3
+  ]
 }
